@@ -21,4 +21,4 @@ I-V curve plotted using the circuit given below.
 
 I-V curve
 ![image](https://github.com/user-attachments/assets/789bc0e7-74e3-40cf-af42-bccc660850bd)
-
+As I-V curve doesn’t exactly match manufacturer parameters. Reasons that would likely present this issue is when bias circuit is not calibrated and issues with modelling packaging circuit.
